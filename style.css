@@ -1,0 +1,40 @@
+main{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+
+    width: 100vw;                     
+    height: 100vh;        
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+       
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+body{
+    margin:0;
+    background-color: rgb(67, 67, 67);
+}
+
+.objetivo{
+    background-color: white;
+    box-shadow: 0 0 40px white;
+}
+
+.j1{
+    background-color:blue;
+}
+
+.j2{
+    background-color:crimson;
+}

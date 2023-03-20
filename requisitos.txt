@@ -1,0 +1,6 @@
+
+1. Iniciar tablero // load
+    1.1. Distinguir fila y columna
+2.- Colocar fichas --> objetivo, j1, j2
+    2.1. Posicion aleatoria --> math.random
+    2.2. clases para jugadores y objetivos
